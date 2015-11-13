@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "brainstation",
+    "database": "shopapp",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "brainstation",
+    "database": "shopapptest",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
